@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- $TexturePacker:SmartUpdate:1165a067cd0123ac4dff90b6e40c36f6$ -->
+<TextureAtlas imagePath="UI.png" width="1024" height="1024">
+        <sprite n="Playbutton.png" x="2" y="682" w="310" h="112" />
+        <sprite n="about" x="2" y="568" w="310" h="112" />
+        <sprite n="bg" x="2" y="2" w="750" h="450" />
+        <sprite n="loadbutton" x="2" y="454" w="310" h="112" />
+</TextureAtlas>

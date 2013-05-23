@@ -1,0 +1,12 @@
+<Poly.Views.ScoreView>
+    <Loom.CSS.StyleSheet source="assets/main.css"/>
+
+    <UI.AtlasSprite id="bg" atlasID="PolyUI" texture="black.png" scale="400" opacity="150"/>
+
+    <UI.Label id="scoreLabel" styleName="polyScore" fontFile="assets/Curse-hd.fnt" text="2 out of ?? polys" />
+
+    <UI.Button id="restartButton" styleName="restartButtonScore" atlasID="PolyUI" upImage="restart_button.png" downImage="restart_button.png"/>
+
+    <UI.Button id="backToMenu" styleName="backToMenu" atlasID="PolyUI" upImage="back_to_menu.png" downImage="back_to_menu.png"/>
+
+</Poly.Views.ScoreView>

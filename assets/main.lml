@@ -1,0 +1,6 @@
+<TribeWarrior.Views.MainMenuView>
+	<Loom.CSS.StyleSheet source="assets/main.css"/>
+    <UI.AtlasSprite id="PlayButton" styleName="PlayButton"
+        atlasID="UI" texture="Playbutton.png"/>
+ 
+</TribeWarrior.Views.MainMenuView>
