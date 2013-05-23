@@ -50,8 +50,5 @@ package
         {
             return scene;
         }
-    public function getMap():CCTMXTiledMap{
-    	return map;
-    	}
 	}
 }
