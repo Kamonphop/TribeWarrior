@@ -52,6 +52,7 @@ package
         }
     public function getMap():CCTMXTiledMap{
     	return map;
+    	//test github
     	}
 	}
 }
